@@ -1,6 +1,6 @@
 cask "ipaper" do
-  version "1.0.2"
-  sha256 "4365364d498864138946848ecea012390220188d24fa14f3f9d1272191481a0a"
+  version "1.0.3"
+  sha256 "b8c35beb582bfc1344808915d80fe6ea3ab453990a96b36a4b4c0aa816e97391"
 
   url "https://github.com/Md-Yousuf-2723/iPaper/releases/download/v#{version}/iPaper-v#{version}-macOS.zip"
   name "iPaper"
